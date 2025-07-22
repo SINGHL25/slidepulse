@@ -1,0 +1,6 @@
+**`requirements.txt`** (for Firebase Functions if used, or Python backend)
+```txt
+# Only needed if extending backend with Python
+firebase-admin
+flask
+flask-cors
